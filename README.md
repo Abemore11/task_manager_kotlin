@@ -6,6 +6,8 @@ This console-based Task Manager application is built entirely in Kotlin. It demo
 
 The purpose of writing this was to deepen my understanding of Kotlin’s syntax and structure while applying software engineering principles such as separation of concerns and modular design.
 
+[Software Demo Video](https://youtu.be/tYyvfvh2TNg)
+
 # Development Environment
 
 - **IDE:** IntelliJ IDEA Community Edition
