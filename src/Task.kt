@@ -1,7 +1,7 @@
 /*
  *  Task.kt
  *
- *  Part of the Model in MVC architecture.
+ *  Part of the Model in MVC design pattern.
  *  Represents a single task entity with its properties and behaviors.
  *  Emphasises encapsulation of task data: title, status, importance, description.
  *  Provides controlled access - getter & setters.

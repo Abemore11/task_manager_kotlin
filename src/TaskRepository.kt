@@ -1,7 +1,7 @@
 /*
  *  TaskRepository.kt
  *
- *  Part of the Model in MVC architecture.
+ *  Part of the Model in MVC design pattern.
  *  Manages the collection of Task objects in memory.
  *  Provides CRUD operations (Create, Read, Update, Delete) for tasks.
  *  Ensures encapsulation and data integrity.

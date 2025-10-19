@@ -1,7 +1,7 @@
 /*
  *  TaskController.kt
  *
- *  The Controller component in MVC architecture.
+ *  The Controller component in MVC design pattern.
  *  Acts as the intermediary between the View and the Model.
  *  Interprets user actions from View, manipulates data via Model,
  *  and updates the View accordingly.

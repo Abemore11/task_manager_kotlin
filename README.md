@@ -1,6 +1,6 @@
 # Overview
 
-As a software engineer, my goal with this project was to strengthen my understanding of Kotlin’s core object-oriented features and explore the Model-View-Controller (MVC) architectural design. This project allowed me to focus on writing clean, maintainable, and modular software that clearly separates responsibilities between components.
+As a software engineer, my goal with this project was to strengthen my understanding of Kotlin’s core object-oriented features and explore the Model-View-Controller (MVC) design pattern. This project allowed me to focus on writing clean, maintainable, and modular software that clearly separates responsibilities between components.
 
 This console-based Task Manager application is built entirely in Kotlin. It demonstrates the use of variables (both mutable and immutable), expressions, conditionals, loops, functions, and classes. It also uses the when keyword to handle user input. The program allows users to create, edit, delete, and list taks through a simple text-based interface.
 

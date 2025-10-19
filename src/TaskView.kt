@@ -1,7 +1,7 @@
 /*
  *  TaskView.kt
  *
- *  The View component in MVC architecture.
+ *  The View component in MVC design pattern.
  *  Responsible for all user interaction and display logic.
  *  Shows menus, prompts user input, and displays messages or task lists.
  *  Contains no business logic or data storage - pure User Interface.
